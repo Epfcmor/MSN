@@ -1,2 +1,2 @@
 # MSN
-My Social Network Project
+My Social Network Project at school
